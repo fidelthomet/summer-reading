@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Inter";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: oblique 0deg 10deg;
+  src: url("~@/assets/fonts/Inter.var.woff2?v=3.13") format("woff2");
+}
+
+/* hack to get inter working in codesandbox – remove for production */
+@font-face {
+  font-family: "InterFallback";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: oblique 0deg 10deg;
+  src: url("/fonts/Inter.var.woff2?v=3.13") format("woff2");
+}

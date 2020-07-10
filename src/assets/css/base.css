@@ -1,0 +1,45 @@
+@import "../../../node_modules/normalize.css";
+@import "./typo.css";
+
+:root {
+  --color-black: #000;
+  --color-accent: #ef2dac;
+}
+
+html {
+  box-sizing: border-box;
+  font: normal normal 100%/ 1.5 "Inter", "InterFallback", sans-serif;
+  font-feature-settings: "ss01", "ss03", "cv10", "calt", "kern";
+  color: var(--color-black);
+}
+
+html *,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0rem;
+  padding: 0;
+}
+
+h1,
+h2 {
+  margin-bottom: 2rem;
+  font-variation-settings: "wght" 900, "slnt" -5;
+}
+
+ul {
+  list-style: none;
+}
+li + li {
+  margin-top: 0.5rem;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.4s;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
