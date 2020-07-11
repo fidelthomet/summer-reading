@@ -1,51 +1,66 @@
 [
   {
-    "authors": "cdjnkwva",
-    "title": "mnfwkalvd nwea wanefw",
-    "venue": "wq cdjnkwva maw",
-    "year": "8139",
-    "url": "https://example.org"
+    "authors": "Segel, E. and Heer, J.",
+    "title": "Narrative visualization: Telling stories with data",
+    "pages": "16(6):1139–1148",
+    "venue": "IEEE Transactions on Visualization and Computer Grahics",
+    "year": "2010",
+    "url": "http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf"
   },
   {
-    "authors": "cdjnkwva",
-    "title": "mnfwkalvd nwea wanefw",
-    "venue": "wq cdjnkwva maw",
-    "year": "8139",
-    "url": "https://example.org"
+    "authors": "Batty, M. and Hudson-Smith, A.",
+    "title": "Visual analytics for urban design",
+    "pages": "132",
+    "venue": "Urban Design Group Journal",
+    "year": "2014",
+    "url": "http://infovis.fh-potsdam.de/readings/Batty2014.pdf"
   },
   {
-    "authors": "cdjnkwva",
-    "title": "mnfwkalvd nwea wanefw",
-    "venue": "wq cdjnkwva maw",
-    "year": "8139",
-    "url": "https://example.org"
+    "authors": "D'Ignazio, C. and Klein, L. F.",
+    "title": "Feminist data visualization",
+    "pages": "",
+    "venue": "VIS4DH: Workshop on Visualiztion for the Digital Humanities",
+    "year": "2016",
+    "url": "http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf"
   },
   {
-    "authors": "cdjnkwva",
-    "title": "mnfwkalvd nwea wanefw",
-    "venue": "wq cdjnkwva maw",
-    "year": "8139",
-    "url": "https://example.org"
+    "authors": "Aigner, W., Miksch, S., Müller, W., Schumann, H. and Tominski, C.",
+    "title": "Visualizing time-oriented data—a systematic view",
+    "pages": "31(3):401–409",
+    "venue": "Computers & Graphics",
+    "year": "2007",
+    "url": "http://infovis.fh-potsdam.de/readings/Aigner2007.pdf"
   },
   {
-    "authors": "cdjnkwva",
-    "title": "mnfwkalvd nwea wanefw",
-    "venue": "wq cdjnkwva maw",
-    "year": "8139",
-    "url": "https://example.org"
+    "authors": "Elmqvist, N., Moere, A. V., Jetter, H.-C., Cernea, D., Reiterer, H. and Jankun-Kelly, T.",
+    "title": "Fluid interaction for information visualization",
+    "pages": "10(4):327–340",
+    "venue": "Information Visualization",
+    "year": "2011",
+    "url": "http://infovis.fh-potsdam.de/readings/Elmqvist2011.pdf"
   },
   {
-    "authors": "cdjnkwva",
-    "title": "mnfwkalvd nwea wanefw",
-    "venue": "wq cdjnkwva maw",
-    "year": "8139",
-    "url": "https://example.org"
+    "authors": "Wang, Z., Wang, S., Farinella, M., Murray-Rust, D., Henry Riche, N. and Bach, B.",
+    "title": "Comparing Effectiveness and Engagement of Data Comics and Infographics",
+    "pages": "1-12",
+    "venue": "In Proceedings of the 2019 CHI Conference on Human Factors in ComputingSystems",
+    "year": "May, 2019",
+    "url": "https://doi.org/10.1145/3290605.3300483"
   },
   {
-    "authors": "cdjnkwva",
-    "title": "mnfwkalvd nwea wanefw",
-    "venue": "wq cdjnkwva maw",
-    "year": "8139",
-    "url": "https://example.org"
+    "authors": "Bach, B., Kerracher, N., Hall, K. W., Carpendale, S., Kennedy, J. and Henry Riche, N.",
+    "title": "Telling stories about dynamic networks with graph comics",
+    "pages": "3670–3682",
+    "venue": "In Proceedings of the 2016 CHI Conference on Human Factor in Computing Systems",
+    "year": "2016",
+    "url": "https://hal.inria.fr/hal-01256099/document"
+  },
+  {
+    "authors": "Bateman, S., Mandryk, R. L., Gutwin, C., Genest, A., McDine, D. and Brooks, C.",
+    "title": "Useful junk?: the effects of visual embellishment on comprehension and memorability of charts",
+    "pages": "2573–2582",
+    "venue": "In Proceedings of the 2010 CHI Conference on Human Factors in Computing Systems",
+    "year": "2010",
+    "url": "https://doi.org/10.1145/1753326.1753716"
   }
 ]
