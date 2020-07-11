@@ -7,7 +7,8 @@
           <strong>{{p.title}}</strong> by
           <span>{{ p.authors }}</span>,
           <em>{{ p.venue }}</em>,
-          <span>{{ p.year }}</span>
+          <span v-if="p.pages">pages {{ p.pages }}, </span>
+          <span>{{ p.year }}</span>.
         </li>
       </ul>
     </div>

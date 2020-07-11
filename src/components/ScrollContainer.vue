@@ -9,18 +9,15 @@
           <h1>InfoVis Papers to Read on Your Summer Staycation</h1>
           <p>
             <strong>about →</strong>
-            Der Weg in dieses Labyrinth, dem seine Ariadne nicht gefehlt hat, führte über die Bendlerbrücke, deren
-            linde Wölbung die erste Hügelflanke für mich wurde. Unweit von ihrem Fuße lag das Ziel: der Friedrich
-            Wilhelm und die Königin Luise. Auf ihren runden Sockeln ragten sie aus den Beeten wie gebannt von
-            magischen Kurven, die ein Wasserlauf vor ihnen in den Sand schrieb.
+            Information visualization (InfoVis) is a dynamic field of research and practice that is concerned with the design, development, and evaluation of interactive and visual representations of data. InfoVis research provides a great basis for interface designers, researchers, and developers to create effective data visualizations and study their potential. Recent InfoVis research connects well with contemporary application areas of interface design such as data-based storytelling, generative art, critical design, science communication, digital humanities, algorithmic accountability, social advocacy, and climate activism. Conceptualized as a self-organized reading group, this weekly seminar provides a supportive platform to read and discuss current InfoVis papers together. Students are encouraged to select the readings according to their own interests and apply insights and ideas from the readings and discussions to their own projects. The goal of the seminar is to critically engage with academic literature, transfer insights to practical design work, and devise new ideas for future research projects.
           </p>
         </div>
       </div>
       <div class="step" v-for="(p, i) in top" :key="`p-${i}`">
         <div class="inner">
-          <h3>{{p.authors}}, {{p.year}}</h3>
+          <h3>{{p.authors}}</h3>
           <h2>{{p.title}}</h2>
-          <h4>{{p.authors}}</h4>
+          <h4>{{p.venue}}, {{p.pages}}, {{p.year}}</h4>
           <p>{{ p.abstract }}</p>
 
           <a class="button" :href="p.url">→ Access Paper</a>
